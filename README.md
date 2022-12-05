@@ -1,6 +1,7 @@
 # Compound Enzyme Prediction based on Heterogeneous Graph Attention Networks
 
 This repository contains work on compound-enzyme-interaction prediction based on heterogeneous graph attention networks, where both protein and compound structures are represented as a graph. NLP-based protein models are used to get protein embeddings representations which serve as input features to the graph network. Compound features are Morgan Fingerprint count encoding of compound substructures.
+
 \
 
 
