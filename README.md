@@ -6,7 +6,7 @@ This repository contains work on compound-enzyme-interaction prediction based on
 
 
 <p align="center">
-  <img width="600"  src="https://user-images.githubusercontent.com/47986787/204306788-7377b952-e63d-49ec-ab72-69667ee1f551.png">
+  <img width="700"  src="https://user-images.githubusercontent.com/47986787/204306788-7377b952-e63d-49ec-ab72-69667ee1f551.png">
 </p>
 
 Also, see https://github.com/Zhiqing-Xu/Molecule-Graph-Attributes-For-GNN for more details of featurization of compounds
